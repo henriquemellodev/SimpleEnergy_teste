@@ -32,7 +32,7 @@ python main.py
 ```
 
 ### Configuração
-- URL Base: A URL base do site de onde os arquivos serão baixados está definida como url = "https://simpleenergy.com.br/teste/". Altere conforme necessário.
+- URL Base: A URL base do site de onde os arquivos serão baixados está definida como url = "https://simpleenergy.com.br/teste/".
 
 - Cabeçalhos HTTP: São definidos cabeçalhos HTTP para simular um navegador. Certifique-se de ajustar os cabeçalhos conforme as necessidades do site que está sendo acessado.
 
